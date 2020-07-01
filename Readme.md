@@ -1,6 +1,6 @@
-# [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+# Data Analyst Nanodegree [Link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-
+Detailed information about the Program -> [NANODEGREE PROGRAM SYLLABUS](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf)
 ### Part 1: ExploreWeatherTrend
 Analyze local and global temperature data and compare the temperature trends in Berlin where I live to overall global temperature trends
 > Project: [Explore Weather Trend](https://github.com/lnphng/Data_Analyst/blob/master/1.ExploreWeatherTrend/Explore_Weather_Trend.pdf)
